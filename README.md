@@ -31,10 +31,10 @@ In the fast-paced world of e-commerce, transforming raw sales data into actionab
 ---
 
 ### 🛍️ Top-Selling Products & Categories
-- The top 10 products contribute **over 40% of all sales revenue**, indicating a high concentration of demand.
+- The top 5 products contribute **over 60% of all sales revenue**, indicating a high concentration of demand.
 - Some high-revenue products have **lower quantity but higher price points**, suggesting a niche but profitable product strategy.
 
-![Top Products Bar Chart](images/top_products.png)
+![Top Products Bar Chart](images/product_assoc.png)
 *Figure 2: Products ranked by total revenue contribution.*
 
 ---
@@ -52,17 +52,8 @@ In the fast-paced world of e-commerce, transforming raw sales data into actionab
 - Products priced under $500 dominate volume sales. There's a **visible decline in quantity ordered as price increases**, though a few expensive items still sell well.
 - This indicates a **threshold of price sensitivity** that should be considered for bundling and upsell strategies.
 
-![Price vs Quantity Scatter Plot](images/price_quantity.png)
+![Price vs Quantity Scatter Plot](images/top_products.png)
 *Figure 4: Price elasticity pattern — opportunity to segment pricing strategy.*
-
----
-
-### 🔄 Product Association Insights
-- Several product pairs are frequently ordered together — particularly **laptops and accessories**, and **smartphones with chargers/cases**.
-- These associations create a strong case for **pre-built bundles** or cross-selling placements.
-
-![Product Association Heatmap](images/product_association.png)
-*Figure 5: Heatmap showing common item pairings in customer carts.*
 
 ---
 
