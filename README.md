@@ -1,5 +1,10 @@
-# E-Commerce Sales Optimization Case Study
+# 📦 E-Commerce Allocation & Sales Optimization Dashboard
 
+## 📘 Project Summary
+This project simulates the work of a retail allocation analyst using historical e-commerce sales data. The goal: uncover patterns in product performance, regional demand, seasonality, and pricing behavior to inform smarter inventory decisions.
+
+> **Business Objective:** Maximize revenue, improve SKU placement, and support cross-selling strategies with data-driven allocation.
+> 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Objective](#objective)
