@@ -1,7 +1,7 @@
 # 📦 CPG-Inspired E-Commerce Allocation & Sales Optimization Dashboard
 
 ## 📘 Project Summary
-This project simulates the work of a retail or CPG (consumer packaged goods) allocation analyst using historical e-commerce sales data inspired by analytical frameworks commonly used by data analysts. The goal: uncover patterns in product performance, regional demand, seasonality, and pricing behavior to inform smarter inventory decisions.
+This project simulates the work of a retail or CPG (consumer packaged goods) allocation analyst using historical e-commerce sales data inspired by analytical frameworks commonly used by data analysts. The goal: uncover patterns in product performance, regional demand, seasonality, and pricing behavior to make actionable inventory decisions.
 
 > **Business Objective:** Apply CPG/Retailer style logic including pricing analysis sell-through rates, and regional allocation strategies.
 
@@ -14,7 +14,7 @@ This project simulates the work of a retail or CPG (consumer packaged goods) all
 5. [Conclusion](#conclusion)
 
 ## Introduction
-In the fast-paced world of e-commerce, transforming raw sales data into actionable insights is essential for strategic decision-making. This project explores regional demand shifts, product-level performance, pricing dynamics, and seasonality patterns typical in  tech durables, CPG and retailer enviroments environments. 
+In the fast-paced world of e-commerce, transforming raw sales data into actionable insights is essential for strategic decision-making. This project explores regional demand shifts, product-level performance, pricing dynamics, and seasonality patterns typical in  tech durables, CPG, and retailer enviroments environments. 
 
 
 ## Objective
@@ -85,7 +85,7 @@ In the fast-paced world of e-commerce, transforming raw sales data into actionab
 ---
 
 ## Conclusion
-This case study demonstrates not only how data can inform tactical retail decisions — but also how close analysis of geography, seasonality, pricing, and purchasing behavior can support strategic allocation decisions. The framework here aligns with analytics used by CPG manufacturing, retailers, and consulting agencies like NielsenIQ to drive category planning, assortment strategy, and retail execution.
+This case study demonstrates not only how data can inform tactical retail decisions — but also how close analysis of geography, seasonality, pricing, and purchasing behavior can support strategic allocation decisions. The framework here aligns with analytics used by CPG manufacturers, retailers, and consulting agencies like NielsenIQ to drive category planning, assortment strategy, and retail execution.
 
 
 ---
@@ -94,5 +94,5 @@ This case study demonstrates not only how data can inform tactical retail decisi
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Data Skills**: Data cleaning, aggregation, correlation analysis, visual storytelling
 - **Retail Concepts**: Allocation logic, revenue segmentation, geographic demand, pricing strategy
-- **CPG Analytics Concepts**: Sell-through, pricing sensitivity, assortment strategy, promotional planning
+- **CPG/Retailer Analytic Concepts**: Sell-through, pricing sensitivity, assortment strategy, promotional planning
 
