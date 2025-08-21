@@ -64,7 +64,7 @@ In the fast-paced world of e-commerce, transforming raw sales data into actionab
 
 ---
 
-## Business Recommendations
+## Actionable Recommendations
 
 ### 🎯 Geo-Targeted Promotions
 - Prioritize inventory allocation and marketing spend in SF, LA, and NYC — especially during Q4.
